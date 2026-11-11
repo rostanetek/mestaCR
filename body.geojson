@@ -5,10 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          14.4378,
-          50.0755
-        ]
+        "coordinates": [14.4378, 50.0755]
       },
       "properties": {
         "id": 1,
@@ -20,10 +17,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          17.2509,
-          49.5938
-        ]
+        "coordinates": [17.2509, 49.5938]
       },
       "properties": {
         "id": 2,
@@ -40,10 +34,19 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          16.9466011,
-          49.9666713
-        ]
+        "coordinates": [16.9466011, 49.9666713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nazev": "Bystročice",
+        "popisek": "Horowitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.19361, 49.53639]
       }
     }
   ]
