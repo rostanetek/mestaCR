@@ -50,7 +50,6 @@
       "type": "Feature",
       "properties": {
         "id": 4,
- main
         "nazev": "Stará Boleslav",
         "popisek": "Testovací popis. –Vmachota"
       },
@@ -67,7 +66,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [18.1030072, 49.6132589]
- main
       }
     }
   ]
