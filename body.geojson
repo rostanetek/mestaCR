@@ -3,47 +3,50 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4378,
-          50.0755
-        ]
-      },
       "properties": {
         "id": 1,
-        "nazev": "Praha",
-        "popisek": "Hlavní město České republiky."
+        "nazev": "Olomouc",
+        "popisek": "Historické město na Moravě, sídlo Olomouckého kraje. Známé Sloupem Nejsvětější Trojice, který je zapsán na seznamu UNESCO."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.2509, 49.5938]
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.2509,
-          49.5938
-        ]
-      },
       "properties": {
         "id": 2,
-        "nazev": "Olomouc",
-        "popisek": "Krajské město Olomouckého kraje, sídlo Univerzity Palackého."
+        "nazev": "Praha",
+        "popisek": "Hlavní město České republiky na řece Vltavě. Nejlidnatější město země a sídlo Pražského hradu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.4378, 50.0755]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "id": 3,
-        "nazev": "Šumperk",
-        "popisek": "moje bydliste"
+        "nazev": "Hvozd",
+        "popisek": "Obec v okrese Prostějov v Olomouckém kraji."
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          16.9466011,
-          49.9666713
-        ]
+        "coordinates": [16.99, 49.50]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nazev": "Konice",
+        "popisek": "Město v okrese Prostějov v Olomouckém kraji, na úpatí Drahanské vrchoviny."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.89, 49.59]
       }
     },
     {
