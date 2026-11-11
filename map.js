@@ -1,11 +1,12 @@
 // Inicializace mapy – střed ČR
 const map = L.map('map').setView([49.8, 15.5], 7);
 
-// Podkladová mapa OpenStreetMap
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  maxZoom: 19,
-  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-}).addTo(map);
+// Podkladová map.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+  subdomains: 'abcd',
+  maxZoom: 20
+}).addTo(map);a OpenStreetMap
+L
 
 // Načtení bodů z GeoJSONu
 fetch('body.geojson')
