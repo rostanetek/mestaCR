@@ -60,3 +60,21 @@
     }
   ]
 }
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nazev": "Oděsa",
+        "popis": "Přístavní město na pobřeží Černého moře na jihu Ukrajiny; její historické centrum je od roku 2023 na seznamu UNESCO."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.7233, 46.4825]
+      }
+    }
+  ]
+}
