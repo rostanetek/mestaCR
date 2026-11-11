@@ -45,6 +45,21 @@
           49.9666713
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nazev": "Vrbno pod Pradědem",
+        "popisek": "Město v okrese Bruntál na úpatí Hrubého Jeseníku."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3828351,
+          50.121038
+        ]
+      }
     }
   ]
 }
