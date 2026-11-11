@@ -1,11 +1,10 @@
 // Inicializace mapy – střed ČR
 const map = L.map('map').setView([49.8, 15.5], 7);
 
-// Podkladová map
-L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-  attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
-  subdomains: 'abcd',
-  maxZoom: 20
+// Podkladová mapa
+L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+  attribution: 'Tiles &copy; Esri',
+  maxZoom: 16
 }).addTo(map);
 
 // Načtení bodů z GeoJSONu
