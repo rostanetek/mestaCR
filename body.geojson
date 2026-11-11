@@ -45,6 +45,21 @@
           49.9666713
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nazev": "Pardubice",
+        "popisek": "zmena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7774239,
+          50.0375792
+        ]
+      }
     }
   ]
 }
