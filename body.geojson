@@ -45,6 +45,18 @@
           49.9666713
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "nazev": "Vícov",
+        "popisek": "Veronika Plisková"
+      },
+      "geometry": {
+      "type": "Point",
+      "coordinates": [16.9597, 49.4886]
+  }
+}
   ]
 }
