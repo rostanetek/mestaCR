@@ -45,6 +45,21 @@
           49.9666713
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0322,
+          50.6607
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "nazev": "Ústí nad Labem",
+        "popisek": "Konig"
+      }
     }
   ]
 }
